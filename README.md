@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amit-Joe-coder
+- 👋 Hi,Myself Amit-Joe
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c and c++ and Know (Python and Django little bit)
 - 💞️ I’m looking for job on sde role

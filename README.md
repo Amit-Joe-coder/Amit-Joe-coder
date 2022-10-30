@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Joe</h1>
-<h3 align="center">Passionate in Writing code, Solving and Creating Logic for Backend from India</h3>
+<h3 align="center">A passionate in Writing code for Backend from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-joe-coder&label=Profile%20views&color=0e75b6&style=flat" alt="amit-joe-coder" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C, CPP, STL And DSA**
+- 🌱 I’m currently learning **C, CPP STL And DSA**
 
 - 💬 Ask me about **Django and Python**
 
@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amit joe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit joe" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/amitjoe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amitjoe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amit joe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amit joe" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amit joe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit joe" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/amitjoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="amitjoe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-joe-703174223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-joe-703174223/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/amitjoe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/amitjoe" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/amitjoe533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/amitjoe533" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/amit_joe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/amit_joe/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@amitjoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@amitjoe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

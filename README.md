@@ -1,9 +1,6 @@
-- 👋 Hi,Myself Amit-Joe
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c and c++ and Know (Python and Django little bit)
-- 💞️ I’m looking for job on sde role
+- 🌱 I’m currently learning c and c++ 
+-  I'v some experiance in python django
+-  I'm looking to collaborate on Web Development
 
-<!---
-Amit-Joe-coder/Amit-Joe-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Connected With me:
+![<#FFA116>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Joe</h1>
-<h3 align="center">A passionate in Writing code for Backend from India</h3>
+<h3 align="center">I'm passionate in Writing code for Backend and Web from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-joe-coder&label=Profile%20views&color=0e75b6&style=flat" alt="amit-joe-coder" /> </p>
 

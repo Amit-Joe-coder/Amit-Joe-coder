@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-joe-coder" alt="amit-joe-coder" /></a> </p>
 
-- 🌱 I’m currently learning **react , JavaScript**
-
-- 💬 Ask me about **c,django,python**
+- 🌱 I’m currently learning **Data Science and AI**
 
 - 📫 How to reach me **joe.amit@yahoo.com**
 
